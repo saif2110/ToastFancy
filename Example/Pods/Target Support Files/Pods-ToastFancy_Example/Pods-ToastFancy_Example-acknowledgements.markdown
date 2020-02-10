@@ -3,7 +3,7 @@ This application makes use of the following third party libraries:
 
 ## ToastFancy
 
-Copyright (c) 2020 saif2110 <gameboy1234@protonmail.com>
+Copyright (c) 2020 saif2110 <saifmukadam2110@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

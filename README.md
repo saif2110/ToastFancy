@@ -22,7 +22,7 @@ pod 'ToastFancy'
 
 ## Author
 
-saif2110, gameboy1234@protonmail.com
+saif2110, saifmukadam2110@gmail.com
 
 ## License
 
