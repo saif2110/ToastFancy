@@ -1,0 +1,22 @@
+{
+  "name": "ToastFancy",
+  "version": "0.1.0",
+  "summary": "A short description of ToastFancy.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/saif2110/ToastFancy",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "saif2110": "gameboy1234@protonmail.com"
+  },
+  "source": {
+    "git": "https://github.com/saif2110/ToastFancy.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ToastFancy/Classes/**/*"
+}

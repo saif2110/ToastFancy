@@ -1,0 +1,6 @@
+framework module Pods_ToastFancy_Tests {
+  umbrella header "Pods-ToastFancy_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
