@@ -18,6 +18,7 @@ iOS 11 or above and swift 4 or above
 ToastFancy is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
+
 ```ruby
 pod 'ToastFancy'
 ```

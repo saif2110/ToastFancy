@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ToastFancy'
-  s.version          = '0.1.0'
+  s.version          = '0.2.0'
   s.summary          = 'ToastFancy is the simple cocoapod for Toast'
 
 # This description is used to generate tags and improve search results.
@@ -26,7 +26,7 @@ TODO: Add long description of the pod here.
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'saif2110' => 'saifmukadam2110@gmail.com' }
   s.source           = { :git => 'https://github.com/saif2110/ToastFancy.git', :tag => s.version.to_s }
-  s.social_media_url = 'https://www.instagram.com/thisis_saif/'
+  s.social_media_url = 'https://in.linkedin.com/in/saif-mukadam-b81142131'
   s.swift_version = '4.0'
 
   s.ios.deployment_target = '11.0'
