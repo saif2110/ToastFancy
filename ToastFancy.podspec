@@ -26,8 +26,8 @@ TODO: Add long description of the pod here.
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'saif2110' => 'saifmukadam2110@gmail.com' }
   s.source           = { :git => 'https://github.com/saif2110/ToastFancy.git', :tag => s.version.to_s }
-  s.social_media_url = 'https://in.linkedin.com/in/saif-mukadam-b81142131'
-  s.swift_versions = '4.0'
+  s.social_media_url = 'https://www.instagram.com/thisis_saif/'
+  s.swift_version = '4.0'
 
   s.ios.deployment_target = '11.0'
 
